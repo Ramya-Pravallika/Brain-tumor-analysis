@@ -36,7 +36,11 @@ Procedure :
            Applying resnet50 algorithm and plotting the segmented image
            
            Calculating the accuracy for both the segmented images and analyzing the best algorithm
-           
+
+final segmented image of Vgg16 algorithm
+
+![image](https://user-images.githubusercontent.com/107994772/188947604-79f25ec0-ab74-49f7-a481-5644574d9dd0.png)
+
 # Classification
 
          
