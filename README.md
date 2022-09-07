@@ -4,6 +4,7 @@ MRI technology is used to identify brain cancers because MRI scans have great re
 Most of the MRI images consists of more noise to remove that noise we are using Median filtering and mean filtering algorithms. Both the filtering algorithms used to remove noise from an image but the quality of the output image varies. Median filtering has high accuracy than mean filtering algorithm. So the quality of median filtered image is very high compared with mean filtered image.
 
 Procedure :
+           
            Importing files and uploading the dataset
            
            Unzipping the dataset
