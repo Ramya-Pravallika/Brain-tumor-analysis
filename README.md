@@ -23,3 +23,20 @@ Procedure :
 
 ![image](https://user-images.githubusercontent.com/107994772/188938970-5bf7611c-ef7f-4206-86e4-efa23c693135.png)
 # Segmentation
+Segmentation is the process used to separate the image into different segments in the form of pixels. for segmentation purpose we are using VGG16 and ResNet50 algorithms. VGG16 is a object detection algorithm and it is used here for semantic segmentation purpose. It is used to enhance the performance of unet. It consists of 16 layers typically 13 convolutional layers, five Max Pooling layers, and three Dense layers but vgg16 contains only 16 weighted layers. ResNet50 is a convolutional neural network that contains 50 layers. In resnet50 we can train millions of images. 
+
+Among both the segmentation algorithms VGG16 has high accuracy and it is used for classification of images too.
+
+Procedure :
+           
+           After filtering the filtered output can be segmented to identify whether the tumor exist or not based on the characteristics
+           
+           Applying vgg16 algorithm and plotting the segmented image
+           
+           Applying resnet50 algorithm and plotting the segmented image
+           
+           Calculating the accuracy for both the segmented images and analyzing the best algorithm
+           
+# Classification
+
+         
